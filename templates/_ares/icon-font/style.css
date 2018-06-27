@@ -1,0 +1,160 @@
+@font-face {
+  font-family: 'icon';
+  src:
+    url('fonts/icon.ttf?69zxxa') format('truetype'),
+    url('fonts/icon.woff?69zxxa') format('woff'),
+    url('fonts/icon.svg?69zxxa#icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-html:before {
+  content: "\e92c";
+}
+.icon-heart2:before {
+  content: "\e92b";
+}
+.icon-ico-1:before {
+  content: "\e924";
+}
+.icon-ico-2:before {
+  content: "\e925";
+}
+.icon-ico-3:before {
+  content: "\e926";
+}
+.icon-ico-4:before {
+  content: "\e927";
+}
+.icon-ico-5:before {
+  content: "\e928";
+}
+.icon-facebook:before {
+  content: "\e922";
+}
+.icon-instagram:before {
+  content: "\e923";
+}
+.icon-close:before {
+  content: "\e921";
+}
+.icon-left-arrow-of-straight-thin-line:before {
+  content: "\e92a";
+}
+.icon-placeholder:before {
+  content: "\e929";
+}
+.icon-analytics:before {
+  content: "\e900";
+}
+.icon-attention:before {
+  content: "\e901";
+}
+.icon-calculator:before {
+  content: "\e902";
+}
+.icon-calendar:before {
+  content: "\e903";
+}
+.icon-call-answer:before {
+  content: "\e904";
+}
+.icon-check-mark:before {
+  content: "\e905";
+}
+.icon-commerce:before {
+  content: "\e906";
+}
+.icon-creativity:before {
+  content: "\e907";
+}
+.icon-development:before {
+  content: "\e908";
+}
+.icon-down-arrow:before {
+  content: "\e909";
+}
+.icon-great-experience:before {
+  content: "\e90a";
+}
+.icon-heart:before {
+  content: "\e90b";
+}
+.icon-high-standards:before {
+  content: "\e90c";
+}
+.icon-inclined-clip:before {
+  content: "\e90d";
+}
+.icon-individual-approach:before {
+  content: "\e90e";
+}
+.icon-internet:before {
+  content: "\e90f";
+}
+.icon-list-menu:before {
+  content: "\e910";
+}
+.icon-mail-black-envelope-symbol:before {
+  content: "\e911";
+}
+.icon-monitor:before {
+  content: "\e912";
+}
+.icon-monitor-2:before {
+  content: "\e913";
+}
+.icon-more:before {
+  content: "\e914";
+}
+.icon-networking:before {
+  content: "\e915";
+}
+.icon-newspaper:before {
+  content: "\e916";
+}
+.icon-notebook-computer:before {
+  content: "\e917";
+}
+.icon-right-arrow:before {
+  content: "\e918";
+}
+.icon-right-arrow-of-straight-thin-line:before {
+  content: "\e919";
+}
+.icon-smartphone:before {
+  content: "\e91a";
+}
+.icon-tz:before {
+  content: "\e91b";
+}
+.icon-up-chevron:before {
+  content: "\e91c";
+}
+.icon-ux-design:before {
+  content: "\e91d";
+}
+.icon-vector:before {
+  content: "\e91e";
+}
+.icon-worlwide:before {
+  content: "\e91f";
+}
+.icon-zoom-in:before {
+  content: "\e920";
+}
